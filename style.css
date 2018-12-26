@@ -176,7 +176,7 @@ header h1 {
   display: inline-block;
   height: 16px;
   width: 16px;
-  background-image: url("../img/cd-icons.svg");
+  background-image: url("https://cdn.staticaly.com/gh/priladeva/TabsResponsive/master/cd-icons.svg");
   background-repeat: no-repeat;
 }
 
