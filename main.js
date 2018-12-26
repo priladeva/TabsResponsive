@@ -1,3 +1,4 @@
+//<![CDATA[
 (function(){
     // Responsive Tabbed Navigation - by CodyHouse.co
 	function TabbedNavigation( element ) {
@@ -122,3 +123,4 @@
 	  	if (classList.length > 1) removeClass(el, classList.slice(1).join(' '));
 	}
 })();
+//]]>
